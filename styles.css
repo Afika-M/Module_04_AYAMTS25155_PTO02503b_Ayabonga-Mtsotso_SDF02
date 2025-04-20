@@ -30,7 +30,6 @@
   
   /* Navigation */
   ul {
-    list-style: none;
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -50,15 +49,18 @@
   }
   
   ul li a:hover {
-    background-color:  #adefbf
+    background-color: #84ea9f;           
+    transition: 0.3s;
+    border-radius: 5px;
   }
   
+
   /* Image */
   img {
     display: block;
     max-width: 250px;
     margin: 0 auto 30px;
-    border-radius: 50%;
+    border-radius: 10%;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   }
   
@@ -69,7 +71,7 @@
     margin: 0 auto 30px;
     max-width: 800px;
     border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(91, 90, 209, 0.1); /* Light purple shadow */
+    box-shadow: 0 4px 15px rgba(91, 90, 209, 0.1);
   }
   
   /* Paragraphs and Lists */
@@ -84,6 +86,20 @@
     margin-right: auto
   }
   
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  /* Tables */
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+
   /* Form Styling */
   form {
     display: flex;
