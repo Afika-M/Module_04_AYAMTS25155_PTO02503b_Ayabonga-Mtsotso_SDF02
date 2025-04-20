@@ -1,14 +1,38 @@
-# [SDF02] Challenge: CS Cat HTML Portfolio 😼
+# 🐾 CodeSpace Cat Portfolio
 
-Congratulations on completing the course content! You've made incredible progress and gained valuable knowledge along the way. As you now start on your project, remember that this is your opportunity to showcase everything you've learned. 
+Welcome to the official portfolio of **CodeSpace Cat** — your whiskered web dev companion! 🐱💻  
+This is a fun and beginner-friendly project built as part of a **CodeSpace Academy** web development course to practice HTML, CSS, and GitHub basics.
 
-This challenge is all about building a **portfolio webpage** for CodeSpace Cat using structured **HTML** and your own **custom CSS**.  
+---
 
-Approach it with confidence and creativity, you've got this! While you'll encounter challenges, remember that each obstacle is an opportunity to grow. Stay focused, believe in your abilities, and don't hesitate to ask for help from peers and your coach. You're almost at the finish line for this Module.
+## 📄 Project Description
 
+This project is a single-page portfolio website that showcases:
 
-## 📖 Challenge Brief  
+- 👋🏾 An **About Me** section
+- 🛠️ A list of **Web Dev Skills**
+- 💼 A simple **Portfolio** placeholder
+- 📇 A **Contact Form**
+- 🎨 CSS styling using **CodeSpace Academy's brand colors**
 
-All project instructions, requirements, and submission details can be found in the **challenge brief**. Make sure to read it carefully before you start. 
+---
 
-🔗 You will find the Challenge Brief in this repo in a markdown file called `CHALLENGE-BRIEF.MD`
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
+- VS Code with Live Server
+- Git & GitHub
+
+---
+
+## 🎯 Learning Goals
+
+- Write semantic HTML
+- Use external CSS stylesheets
+- Implement anchor links for smooth scrolling
+- Build a simple form
+- Practice clean code formatting and folder structure
+- Use Git to track changes and push to GitHub
+
+---
