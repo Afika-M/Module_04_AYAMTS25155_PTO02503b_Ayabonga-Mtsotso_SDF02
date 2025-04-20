@@ -85,14 +85,12 @@
     margin-left: auto;
     margin-right: auto
   }
-  
 
+  /* Tables */
   table {
     border-collapse: collapse;
     width: 100%;
   }
-
-  /* Tables */
   th, td {
     border: 1px solid #ccc;
     padding: 10px;
@@ -148,3 +146,11 @@
   html {
     scroll-behavior: smooth;
   }  
+  .portfoliopages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
